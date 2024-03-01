@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotAPI", "RobotAPI.csproj", "{34341D8C-A83D-434C-BCCC-DBDC930C53F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotAPI.Test", "..\RobotAPI.Test\RobotAPI.Test.csproj", "{44060069-BEEE-4A94-A7F4-ED35533E2F3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34341D8C-A83D-434C-BCCC-DBDC930C53F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34341D8C-A83D-434C-BCCC-DBDC930C53F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34341D8C-A83D-434C-BCCC-DBDC930C53F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34341D8C-A83D-434C-BCCC-DBDC930C53F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44060069-BEEE-4A94-A7F4-ED35533E2F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44060069-BEEE-4A94-A7F4-ED35533E2F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44060069-BEEE-4A94-A7F4-ED35533E2F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44060069-BEEE-4A94-A7F4-ED35533E2F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE167F33-37D6-4044-9CED-BFD9E0C9D661}
+	EndGlobalSection
+EndGlobal
